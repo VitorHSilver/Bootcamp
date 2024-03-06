@@ -9,7 +9,7 @@
 
 ## About Laravel
 
-Projeto Chirps no framework com um CRUD básico
+Projeto Chirps no framework com um CRUD 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
